@@ -1,4 +1,2 @@
 # App-ads.txt
-# Add your ads.txt entries below. Example:
-# Keep Me Hydrated
 google.com, pub-9085836508167933, DIRECT, f08c47fec0942fa0
